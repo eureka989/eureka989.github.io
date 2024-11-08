@@ -117,15 +117,6 @@ code {
     }
 }
 
-// light模式下的代码块样式调整
-[data-scheme="light"] .article-content .highlight {
-    background-color: #fff9f3;
-}
-
-[data-scheme="light"] .chroma {
-    color: #b2b2b2;
-    background-color: #555555cc;
-}
 
 //-------------------------------------------
 // 设置选中字体的区域背景颜色
