@@ -26,34 +26,6 @@
 
 
 
-//-----------------------------------------------------
-//将滚动条修改为圆角样式
-//菜单滚动条美化
-.menu::-webkit-scrollbar {
-    display: none;
-}
-
-// 全局滚动条美化
-html {
-    ::-webkit-scrollbar {
-        width: 20px;
-    }
-
-    ::-webkit-scrollbar-track {
-        background-color: transparent;
-    }
-
-    ::-webkit-scrollbar-thumb {
-        background-color: #d6dee1;
-        border-radius: 20px;
-        border: 6px solid transparent;
-        background-clip: content-box;
-    }
-
-    ::-webkit-scrollbar-thumb:hover {
-        background-color: #a8bbbf;
-    }
-}
 
 
 
@@ -116,6 +88,23 @@ code {
         width: auto;
     }
 }
+
+//----------------------------------------------------------
+//为代码块顶部添加macos样式
+.article-content {
+    .highlight:before {
+        content: "";
+        display: block;
+        background: url(/img/code-header.svg);
+        height: 32px;
+        width: 100%;
+        background-size: 57px;
+        background-repeat: no-repeat;
+        margin-bottom: 5px;
+        background-position: -1px 2px;
+    }
+}
+
 
 
 //-------------------------------------------
