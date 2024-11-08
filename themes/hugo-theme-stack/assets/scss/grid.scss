@@ -5,13 +5,13 @@
     .left-sidebar {
         order: -3;
         // max-width: var(--left-sidebar-max-width);
-        max-width: 15%;
+        max-width: 12%;
     }
 
     .right-sidebar {
         order: -1;
         // max-width: var(--right-sidebar-max-width);
-        max-width: 18%;
+        max-width: 25%;
 
         /// Display right sidebar when min-width: lg
         @include respond(lg) {
