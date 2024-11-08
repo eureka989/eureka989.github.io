@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on Eureka Blog</title>
+        <link>https://eureka989.github.io/tags/</link>
+        <description>Recent content in Tags on Eureka Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Eureka</copyright>
+        <lastBuildDate>Fri, 08 Nov 2024 21:35:31 +0800</lastBuildDate><atom:link href="https://eureka989.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>教程</title>
+        <link>https://eureka989.github.io/tags/%E6%95%99%E7%A8%8B/</link>
+        <pubDate>Fri, 08 Nov 2024 21:35:31 +0800</pubDate>
+        
+        <guid>https://eureka989.github.io/tags/%E6%95%99%E7%A8%8B/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>笔记</title>
+        <link>https://eureka989.github.io/tags/%E7%AC%94%E8%AE%B0/</link>
+        <pubDate>Wed, 06 Nov 2024 16:05:42 +0800</pubDate>
+        
+        <guid>https://eureka989.github.io/tags/%E7%AC%94%E8%AE%B0/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>计算机网络</title>
+        <link>https://eureka989.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</link>
+        <pubDate>Wed, 06 Nov 2024 16:05:42 +0800</pubDate>
+        
+        <guid>https://eureka989.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

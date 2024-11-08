@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Eureka Blog</title>
+        <link>https://eureka989.github.io/categories/</link>
+        <description>Recent content in Categories on Eureka Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Eureka</copyright>
+        <lastBuildDate>Fri, 08 Nov 2024 21:35:31 +0800</lastBuildDate><atom:link href="https://eureka989.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>教程</title>
+        <link>https://eureka989.github.io/categories/%E6%95%99%E7%A8%8B/</link>
+        <pubDate>Fri, 08 Nov 2024 21:35:31 +0800</pubDate>
+        
+        <guid>https://eureka989.github.io/categories/%E6%95%99%E7%A8%8B/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>基础知识</title>
+        <link>https://eureka989.github.io/categories/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
+        <pubDate>Wed, 06 Nov 2024 16:05:42 +0800</pubDate>
+        
+        <guid>https://eureka989.github.io/categories/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://eureka989.github.io/categories/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://eureka989.github.io/categories/test/</guid>
+        <description>&lt;img src="https://eureka989.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
